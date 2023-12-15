@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+body {
+	font-family: 'Poppins', Tahoma, Geneva, Verdana, sans-serif;
+}
+.banner-wrapper {
+	display: flex;
+	flex-direction: row;
+	max-height: fit-content;
+	padding: 10px;
+	max-height: 500px;
+}
+
+.img-banner {
+	object-fit: fill;
+	width: 300px;
+	padding: 10px;
+	height: 300px;
+}
