@@ -1,14 +1,17 @@
-<nav>
-    <div>
+<style>
+    <?php include 'assets/style/navbar.css' ?>
+</style>
+<nav class="navbar">
+    <div class="nav-menu">
         Beranda
     </div>
-    <div>
+    <div class="nav-menu">
         Lokasi
     </div>
-    <div>
+    <div class="nav-menu">
         Layanan & Harga
     </div>
-    <div>
+    <div class="nav-menu">
         Pesan
     </div>
 </nav>

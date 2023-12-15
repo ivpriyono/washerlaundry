@@ -10,34 +10,37 @@
             alt="banner">
     </div>
 </div>
-<div>
-    <div>
+<div class="usp-wrapper">
+    <div class="usp">
         <div>
-            <img src="https://static.wixstatic.com/media/81385e_9de58a101998458fbfb8bb6e3f40111d~mv2.jpg/v1/crop/x_454,y_0,w_3024,h_3024/fill/w_450,h_450,al_c,q_90,enc_auto/Jemput%20Kapanpun.jpg"
+            <img class="img-usp"
+                src="https://static.wixstatic.com/media/81385e_9de58a101998458fbfb8bb6e3f40111d~mv2.jpg/v1/crop/x_454,y_0,w_3024,h_3024/fill/w_450,h_450,al_c,q_90,enc_auto/Jemput%20Kapanpun.jpg"
                 alt="">
         </div>
         <div>
-            <p>Bawa ke Outlet atau Pesan Online Kapanpun</p>
+            <h3>Bawa ke Outlet atau Pesan Online Kapanpun</h3>
             <p>Datang langsung ke puluhan outlet laundry terdekat atau pesan online via WA atau website.</p>
         </div>
     </div>
-    <div>
+    <div class="usp">
         <div>
-            <img src="https://static.wixstatic.com/media/81385e_9de58a101998458fbfb8bb6e3f40111d~mv2.jpg/v1/crop/x_454,y_0,w_3024,h_3024/fill/w_450,h_450,al_c,q_90,enc_auto/Jemput%20Kapanpun.jpg"
+            <img class="img-usp"
+                src="https://static.wixstatic.com/media/81385e_9de58a101998458fbfb8bb6e3f40111d~mv2.jpg/v1/crop/x_454,y_0,w_3024,h_3024/fill/w_450,h_450,al_c,q_90,enc_auto/Jemput%20Kapanpun.jpg"
                 alt="">
         </div>
         <div>
-            <p>Nikmati Waktu Luang Anda</p>
+            <h3>Nikmati Waktu Luang Anda</h3>
             <p>Nikmati waktu luang Anda dan kami akan jemput sesuai waktu preferensi Anda.</p>
         </div>
     </div>
-    <div>
+    <div class="usp">
         <div>
-            <img src="https://static.wixstatic.com/media/81385e_9de58a101998458fbfb8bb6e3f40111d~mv2.jpg/v1/crop/x_454,y_0,w_3024,h_3024/fill/w_450,h_450,al_c,q_90,enc_auto/Jemput%20Kapanpun.jpg"
+            <img class="img-usp"
+                src="https://static.wixstatic.com/media/81385e_9de58a101998458fbfb8bb6e3f40111d~mv2.jpg/v1/crop/x_454,y_0,w_3024,h_3024/fill/w_450,h_450,al_c,q_90,enc_auto/Jemput%20Kapanpun.jpg"
                 alt="">
         </div>
         <div>
-            <p>Santai Dengan Pengantaran Langsung</p>
+            <h3>Santai Dengan Pengantaran Langsung</h3>
             <p>Pakaian Anda kami antarkan langsung ke alamat Anda. Layanan Express tersedia.</p>
         </div>
     </div>
@@ -46,34 +49,42 @@
     <div>
         <h2>Layanan Kami</h2>
     </div>
-    <div>
-        <div>
-            <img src="https://static.wixstatic.com/media/81385e_f173ad41e3c946508714bb78b865d4a2~mv2.png/v1/crop/x_155,y_155,w_773,h_773/fill/w_291,h_291,al_c,q_95,enc_auto/Opening%20Cabang%20(5)-min.png"
-                alt="">
+    <div class="service-wrapper">
+        <div class="service">
+            <div class="img-service-wrapper"><img class="img-service"
+                    src="https://static.wixstatic.com/media/81385e_f173ad41e3c946508714bb78b865d4a2~mv2.png/v1/crop/x_155,y_155,w_773,h_773/fill/w_291,h_291,al_c,q_95,enc_auto/Opening%20Cabang%20(5)-min.png"
+                    alt="">
+            </div>
             <div>
                 Laundry Kiloan
                 Mulai dari Rp 7,000/Kg
             </div>
         </div>
-        <div>
-            <img src="https://static.wixstatic.com/media/81385e_f173ad41e3c946508714bb78b865d4a2~mv2.png/v1/crop/x_155,y_155,w_773,h_773/fill/w_291,h_291,al_c,q_95,enc_auto/Opening%20Cabang%20(5)-min.png"
-                alt="">
+        <div class="service">
+            <div class="img-service-wrapper"><img class="img-service"
+                    src="https://static.wixstatic.com/media/81385e_f173ad41e3c946508714bb78b865d4a2~mv2.png/v1/crop/x_155,y_155,w_773,h_773/fill/w_291,h_291,al_c,q_95,enc_auto/Opening%20Cabang%20(5)-min.png"
+                    alt="">
+            </div>
             <div>
                 Dry Cleaning
                 Mulai dari Rp 10,000/pc
             </div>
         </div>
-        <div>
-            <img src="https://static.wixstatic.com/media/81385e_f173ad41e3c946508714bb78b865d4a2~mv2.png/v1/crop/x_155,y_155,w_773,h_773/fill/w_291,h_291,al_c,q_95,enc_auto/Opening%20Cabang%20(5)-min.png"
-                alt="">
+        <div class="service">
+            <div class="img-service-wrapper"><img class="img-service"
+                    src="https://static.wixstatic.com/media/81385e_f173ad41e3c946508714bb78b865d4a2~mv2.png/v1/crop/x_155,y_155,w_773,h_773/fill/w_291,h_291,al_c,q_95,enc_auto/Opening%20Cabang%20(5)-min.png"
+                    alt="">
+            </div>
             <div>
                 Shoe & Bag Care
                 Mulai dari Rp 18,000/pc
             </div>
         </div>
-        <div>
-            <img src="https://static.wixstatic.com/media/81385e_f173ad41e3c946508714bb78b865d4a2~mv2.png/v1/crop/x_155,y_155,w_773,h_773/fill/w_291,h_291,al_c,q_95,enc_auto/Opening%20Cabang%20(5)-min.png"
-                alt="">
+        <div class="service">
+            <div class="img-service-wrapper"><img class="img-service"
+                    src="https://static.wixstatic.com/media/81385e_f173ad41e3c946508714bb78b865d4a2~mv2.png/v1/crop/x_155,y_155,w_773,h_773/fill/w_291,h_291,al_c,q_95,enc_auto/Opening%20Cabang%20(5)-min.png"
+                    alt="">
+            </div>
             <div>
                 Ironing
                 Mulai dari Rp 8,000/Kg
