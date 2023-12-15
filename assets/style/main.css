@@ -72,3 +72,15 @@ body {
 	width: 50%;
 	height: 50%;
 }
+
+.btn-order {
+	width: auto;
+	height: auto;
+	padding: 10px 20px;
+	background-color: aqua;
+	border: none;
+	border-radius: 100px;
+	font-size: large;
+	font-weight: 600;
+	font-family: 'Poppins', Tahoma, Geneva, Verdana, sans-serif;
+}

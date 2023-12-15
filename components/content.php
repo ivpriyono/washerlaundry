@@ -3,6 +3,7 @@
         <h1>Laundry Yang Bikin Tenang</h1>
         <p>Pakaian Ant​​i Hilang / ​​Tertukar</p>
         <p>Bawa ke outlet laundry terdekat atau kami jemput, cuci & antar laundry kiloan & dry cleaning Anda.</p>
+        <div><button class="btn-order">Pesan Sekarang</button></div>
     </div>
     <div class="image-wrapper">
         <img class="img-banner"
