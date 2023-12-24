@@ -1,6 +1,6 @@
 <body>
     <style>
-        <?php include 'assets/style/main.css' ?>
+        <?php include '../assets/style/main.css' ?>
     </style>
     <?php
     require 'components/navbar.php';
